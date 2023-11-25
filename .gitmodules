@@ -6,3 +6,7 @@
 	path = verge
 	url = git@github.com:yetpocket/cls-verge
 	branch = main
+[submodule "service"]
+	path = service
+	url = https://github.com/yetpocket/cls-verge-service
+	branch = main
