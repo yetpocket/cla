@@ -1,7 +1,7 @@
 [submodule "meta"]
 	path = meta
 	url = git@github.com:yetpocket/cls-meta
-	branch = Alpha
+	branch = main
 [submodule "verge"]
 	path = verge
 	url = git@github.com:yetpocket/cls-verge
